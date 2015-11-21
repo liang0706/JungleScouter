@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "JungleScouter"
+  },
+  "hostingPlanName": {
+    "value": "JungleScouterService"
+  },
+  "siteLocation": {
+    "value": "Central US"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "436586a0-9475-42e3-81e8-1ed2a737fc61"
+  },
+  "resourceGroup": {
+    "value": "Default-ApplicationInsights-CentralUS"
+  }
+}
